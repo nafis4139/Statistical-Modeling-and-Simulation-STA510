@@ -1,9 +1,12 @@
 ---
 title: "STA510 Assignment 02 Solution"
-author: "B M Nafis Fuad"
+author: |
+  B M Nafis Fuad  
+  [GitHub](https://github.com/nafis4139/Statistical-Modeling-and-Simulation-STA510/tree/main/Assignment%2002)
 date: "`r Sys.Date()`"
 output: pdf_document
 ---
+
 
 ```{r setup, include=FALSE}
 rm(list=ls()) # Clear the workspace to start fresh
